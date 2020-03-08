@@ -1,0 +1,49 @@
+body {
+  font-family: "Inter", sans-serif;
+  margin: 0px;
+}
+
+a:hover {
+  color: red;
+}
+
+li:nth-child(even) {
+  color: green;
+}
+
+nav {
+  background-color: lightgrey;
+}
+
+.nav-link-wrapper {
+  margin: 0 auto;
+  padding: 1rem;
+  display: block;
+  width: 300px;
+}
+
+.nav-link-wrapper > a {
+  margin-left: 5px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+
+.main-content {
+  /* background: darkmagenta; */
+  min-height: 200px;
+  width: 60%;
+  float: left;
+  margin-left: 1rem;
+}
+
+.sidebar {
+  /* background: green; */
+  min-height: 200px;
+  width: 25%;
+  float: right;
+  padding: 10px;
+}
+
+.clearfix {
+  clear: both;
+}
