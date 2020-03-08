@@ -1,14 +1,11 @@
 => [wiki](https://github.com/okcoders/2020-web-dev/wiki)
 
-# Week 2 Homework
-Create HTML-only clones of at least **3 website sections** you like from scratch. Don't worry about styling yet! 
+# Week 3 Homework
+1. Watch videos #2, 3, 4 & 6 from [this free CSS Flexbox video course](https://flexbox.io). I also highly recommend [this CSS tricks Flexbox guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/). 
+2. Go back to the 3 sites you recreated from examples last week. Try to use the new CSS styling and layout skills we practiced in class to make at least 1 section in each site much closer to the original. If you get stuck, reach out in Slack!
 
-Focus on breaking each page down into the "box model" and picking the HTML tags you think will work best to give your page the right structure.
-
-**A few ideas for sites to clone:**
-* https://www.google.com/
-* https://www.airbnb.com/
-* https://www.shopify.com/
-* https://www.etsy.com/
-* https://www.tunnelbear.com/
-* https://hey.com/
+# What we'll cover next week
+Can you believe we're already approaching our fourth and final class for the HTML & CSS module? Crazy. There's still some great topics to cover including:
+* Fixed and Absolute positioning
+* Applying a CSS framework like [Bootstrap](https://getbootstrap.com/) to build grids and components faster
+* And if we have time — how you can host your site for free using [Netlify](https://www.netlify.com/) so everyone can find it
